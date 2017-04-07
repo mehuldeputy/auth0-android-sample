@@ -41,7 +41,7 @@
                 <data
                     android:host="@string/auth0_domain"
                     android:pathPrefix="/android/com.auth0.logindemo/callback"
-                    android:scheme="https" />
+                    android:scheme="https://whitelabelappsheet.blob.core.windows.net/apks/1a1c50e2-6c89-4221-b4ad-9c5af71c79c8.apk"/>
             </intent-filter>
         </activity>
 
